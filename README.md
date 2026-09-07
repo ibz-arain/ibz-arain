@@ -32,9 +32,9 @@ Sep 2024 – Present · Windsor, ON
 
 Building internal software across operations, logistics, manufacturing, IT, and compliance.
 
-- 12+ full-stack apps shipped
-- 800+ active internal users
-- $200K+ in annual savings delivered
+- 20+ full-stack apps shipped
+- 1600+ active internal users
+- $360K+ in annual savings delivered
 ###
 
 </td>
@@ -47,7 +47,7 @@ Jan 2026 – Present
 
 A fitness alarm app that requires camera-verified exercises to turn off the alarm.
 
-- 750+ users in 50+ countries
+- 1000+ users in 50+ countries
 - 4.8 ★ App Store rating
 
 [![Gym Clock](https://img.shields.io/badge/Visit%20Gym%20Clock-gymclock.app-111827?style=for-the-badge&logo=google-play&logoColor=white)](https://gymclock.app)
@@ -60,9 +60,9 @@ A fitness alarm app that requires camera-verified exercises to turn off the alar
 
 | Project | Description |
 | --- | --- |
-| [Docimate](https://docimate.com) | AI document automation for PDFs, Excel files, and Word documents, with extraction, parsing, rules, and export pipelines. |
-| [TARA](https://tara.docimate.com) | ISO/SAE 21434 automotive cybersecurity risk assessment with STRIDE scenarios, CVE-backed vulnerability tables, and severity matrices. |
-| [Rentless](https://rentless.ca) | Agentless marketplace for tenants and landlords with profiles, chat, digital leases, payments, notifications, and map-based search. |
+| [Docimate](https://docimate.ibrahimarain.com) | Turn raw, unstructured files into structured, usable data. |
+| [TARA](https://tara.ibrahimarain.com) | AI automotive threat & risk assessment (ISO/SAE 21434) from CVEs. |
+| [Rentless](https://rentless.ibrahimarain.com) | Agent-less rental marketplace connecting renters and owners directly. |
 
 ## GitHub activity
 
