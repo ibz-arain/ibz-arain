@@ -2,7 +2,7 @@
 
 # Ibrahim Arain
 
-### Software Engineer · Founder 
+### Founder, Head of Product @ Gym Clock · Product Engineer @ Amico 
 
 
 [![Website](https://img.shields.io/badge/Website-ibrahimarain.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimarain.com)
@@ -42,7 +42,7 @@ Building internal software across operations, logistics, manufacturing, IT, and 
 
 ### ⏰ Gym Clock
 
-**Founder & Software Engineer**  
+**Founder & Head of Product**  
 Jan 2026 – Present
 
 A fitness alarm app that requires camera-verified exercises to turn off the alarm.
@@ -114,8 +114,8 @@ A fitness alarm app that requires camera-verified exercises to turn off the alar
 ## Education
 
 **University of Windsor**  
-Bachelor of Science + Bachelor of Computer Science  
-Double Major in Computer Science and Integrative Biology  
+Bachelor of Science  
+Double Major in Computer Science and Biological Sciences 
 `2022 – 2026`
 
 ---
